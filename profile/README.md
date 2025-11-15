@@ -48,44 +48,6 @@ Features planned for the initial release:
 
 ---
 
-## Future Features
-Planned for later releases beyond v1:
-
-### Real-time Watch Parties
-- **Sync playback** with friends across the globe
-- **Live chat** and reactions during viewing  
-- **Virtual rooms** with custom permissions  
-- **No plugins required** - works in any modern browser
-
-### Personal Media Hosting
-- **Beautiful interface** for your local media collection  
-- **Multiple user support** with individual profiles  
-
-### Groups & Communities
-- Create **public or private groups** around interests  
-- **Moderation tools** for community managers
-- **Activity feeds** to see what friends are watching
-- **Shared watchlists** and recommendations   
-
-### Unified Content Discovery
-- **Smart recommendations** based on viewing history   
-
-### Everywhere Access
-- iOS app, mobile and TV apps
-- **Offline capability** for mobile & iOS apps  
-
----
-
-## Built With
-
-- **Frontend Framework:** React 18 + TypeScript  
-- **Build Tool:** Vite  
-- **Styling:** Tailwind CSS  
-- **UI Components:** shadcn/ui  
-- **Icons:** Lucide React  
-
----
-
 ## Privacy & Control
 
 - **Self-hostable**: keep data on your own servers  
